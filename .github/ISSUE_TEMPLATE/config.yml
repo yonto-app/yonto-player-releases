@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Get help by email
+    url: https://yonto.app/support/
+    about: No GitHub account, or something private such as your purchase? Write to support@yonto.app.
+  - name: Troubleshooting
+    url: https://yonto.app/docs/troubleshooting/
+    about: What each message Yonto shows means, and what to do about it.
