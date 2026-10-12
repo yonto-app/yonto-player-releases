@@ -1,5 +1,5 @@
 name: Report a bug
-description: Something in Yonto doesn't work the way it should.
+description: Something in Yonto Player doesn't work the way it should.
 title: "Bug: "
 labels: ["bug"]
 body:
@@ -8,11 +8,11 @@ body:
       value: |
         Thanks for taking the time.
         Everything here is public, so leave out server addresses, accounts, passwords and licence keys.
-        No GitHub account, or would rather not post in public? Email support@yonto.app instead: https://yonto.app/support/
+        No GitHub account, or would rather not post in public? Email support@yonto.app instead: https://player.yonto.app/support/
   - type: input
     id: version
     attributes:
-      label: Yonto version
+      label: Yonto Player version
       description: From Settings, About.
       placeholder: "5.0.7"
     validations:

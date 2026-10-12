@@ -1,12 +1,12 @@
 name: Request a feature
-description: A protocol, a screen or a change that would make Yonto yours.
+description: A protocol, a screen or a change that would make Yonto Player yours.
 title: "Feature request: "
 labels: ["enhancement"]
 body:
   - type: textarea
     id: what
     attributes:
-      label: What would you like Yonto to do?
+      label: What would you like Yonto Player to do?
     validations:
       required: true
   - type: textarea
