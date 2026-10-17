@@ -11,7 +11,7 @@ The apps' source is not here; the plugin SDK and the CLI are, under MIT, in [yon
 - **Plays the file as it is.** No transcoding on the server, and FFmpeg audio decoders for AC3, E-AC-3, DTS and TrueHD where the device has none.
 - **No account, no ads.** The apps have no analytics, and your history and settings stay on the device.
 
-Free with one source. Pro is one payment, no subscription, for more sources, plugins and up to five devices: see [pricing](https://player.yonto.app/pricing/).
+Free with one source. Pro is one payment, no subscription, for more sources, plugins and up to five devices, and you can try it free for 7 days in the app, once per device, with no payment details: see [pricing](https://player.yonto.app/pricing/).
 
 ## Download
 
