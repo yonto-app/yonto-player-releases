@@ -6,3 +6,6 @@ contact_links:
   - name: Troubleshooting
     url: https://player.yonto.app/docs/troubleshooting/
     about: What each message Yonto Player shows means, and what to do about it.
+  - name: Ideas and setups
+    url: https://github.com/yonto-app/yonto-player-releases/discussions
+    about: Something Yonto Player doesn't do yet for your setup, or the setup you watch with. Bugs go in an issue.
