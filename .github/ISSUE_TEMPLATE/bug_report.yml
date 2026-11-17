@@ -26,6 +26,8 @@ body:
         - Android phone
         - Android tablet
         - iPhone or iPad
+        - Windows PC
+        - Mac
     validations:
       required: true
   - type: input
