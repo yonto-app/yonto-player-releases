@@ -15,7 +15,7 @@ Free with one source. Pro is one payment, no subscription, for more sources, plu
 
 ## Download
 
-Each [release](https://github.com/yonto-app/yonto-player-releases/releases/latest) has two APKs, a Windows installer and a Mac disk image:
+Each [release](https://github.com/yonto-app/yonto-player-releases/releases) has two APKs, a Windows installer and a Mac disk image, or for a release made for one platform alone, that platform's file; take each from the newest release that has it:
 
 - `Yonto-AndroidTV-vX.Y.Z.apk` for Android TV and Google TV, Android 8.0 or later.
 - `Yonto-Phone-vX.Y.Z.apk` for Android phones and tablets.
@@ -24,9 +24,9 @@ Each [release](https://github.com/yonto-app/yonto-player-releases/releases/lates
 
 On a TV, the quickest way is the Downloader app: type `player.yonto.app/tv` and it fetches the latest TV APK.
 [Install on Android TV](https://player.yonto.app/docs/install-on-android-tv/) has that, sending it from your phone, and a USB drive.
-On Windows, the installer isn't signed yet, so SmartScreen may say "Windows protected your PC": choose More info, then Run anyway. [Install on Windows](https://player.yonto.app/docs/install-on-windows/) goes through it.
+On Windows, [Yonto Player in the Microsoft Store](https://apps.microsoft.com/detail/9NXTKB7ZMTSM?mode=direct) installs with nothing to confirm and the Store updates it. The installer here isn't signed yet, so SmartScreen may say "Windows protected your PC": choose More info, then Run anyway. [Install on Windows](https://player.yonto.app/docs/install-on-windows/) goes through both.
 On a Mac, the app isn't signed by Apple yet, so the first time macOS says it can't open it: close that message without moving the app to the Bin, then in System Settings, Privacy & Security, choose Open Anyway next to the line about Yonto Player, and enter your password to confirm. [Install on a Mac](https://player.yonto.app/docs/install-on-mac/) goes through it.
-The Windows and Mac apps are a preview: they are new and not yet signed by Microsoft or Apple, and Pro works on them as it does everywhere else.
+The Windows and Mac apps are a preview: they are new, the Windows installer and the Mac app aren't signed by Microsoft or Apple yet, and Pro works on them as it does everywhere else.
 Then [Getting started](https://player.yonto.app/docs/getting-started/) takes you through the demo library and your first source.
 
 ## Help
